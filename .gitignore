@@ -1,0 +1,8 @@
+# ignore template cpp file
+t.cpp
+
+# ignore examples
+*/book_examples
+
+# ignore object files
+*.o

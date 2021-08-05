@@ -1,0 +1,16 @@
+/*********************************************************
+*
+* Answer to exercise 1 in chapter 23 
+*
+* Exercise from Sams Teach Yourself C++ in 24 Hours by Rogers Cadenhead 
+* and Jesse Liberty
+*  
+*
+*********************************************************/
+
+List of differences:
+- addition of Robot class
+- template declaration on Node, InternalNode, HeadNode, TailNode, and LinkedList
+  and use of identifier T in place of parameterized type
+- inside main, instantiation of Robot LinkedList as well as input and output 
+  called on the Robot LinkedList
