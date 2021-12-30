@@ -2,7 +2,7 @@
 *
 * Answer to exercise 1 in chapter 1 
 *
-* Modified 19.1 from Sams Teach Yourself C++ in 24 Hours by Rogers Cadenhead 
+* Modified 1.1 from Sams Teach Yourself C++ in 24 Hours by Rogers Cadenhead 
 * and Jesse Liberty
 *  
 * Compiled with g++ (GCC) 11.1.0 
